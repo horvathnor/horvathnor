@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Norbert
-- 👀 I’m interested in qibb
-- 🌱 I’m currently learning how to manage collaboration via github
+- 👀 I’m interested in your opinion on qibb
 - 📫 Reach me here: n.horvath@techtriq.com
 
 <!---
